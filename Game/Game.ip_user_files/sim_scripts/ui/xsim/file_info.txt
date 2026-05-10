@@ -1,0 +1,2 @@
+ui.v,verilog,xil_defaultlib,../../../../Game.gen/sources_1/ip/ui/sim/ui.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v

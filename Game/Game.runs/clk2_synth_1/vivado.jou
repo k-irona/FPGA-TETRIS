@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Thu Dec 18 15:44:06 2025
+# Process ID: 34516
+# Current directory: E:/Digital_lab/lab8/Game/Game.runs/clk2_synth_1
+# Command line: vivado.exe -log clk2.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source clk2.tcl
+# Log file: E:/Digital_lab/lab8/Game/Game.runs/clk2_synth_1/clk2.vds
+# Journal file: E:/Digital_lab/lab8/Game/Game.runs/clk2_synth_1\vivado.jou
+# Running On: LAPTOP-AF2G83QP, OS: Windows, CPU Frequency: 2304 MHz, CPU Physical cores: 20, Host memory: 16944 MB
+#-----------------------------------------------------------
+source clk2.tcl -notrace

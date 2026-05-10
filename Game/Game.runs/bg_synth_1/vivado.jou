@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Mon Dec 15 20:54:26 2025
+# Process ID: 41156
+# Current directory: E:/Digital_lab/lab8/Game/Game.runs/bg_synth_1
+# Command line: vivado.exe -log bg.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source bg.tcl
+# Log file: E:/Digital_lab/lab8/Game/Game.runs/bg_synth_1/bg.vds
+# Journal file: E:/Digital_lab/lab8/Game/Game.runs/bg_synth_1\vivado.jou
+# Running On: LAPTOP-AF2G83QP, OS: Windows, CPU Frequency: 2304 MHz, CPU Physical cores: 20, Host memory: 16944 MB
+#-----------------------------------------------------------
+source bg.tcl -notrace

@@ -1,0 +1,17 @@
++====================+===================+=============================+
+| Launch Setup Clock | Launch Hold Clock | Pin                         |
++====================+===================+=============================+
+| sys_clk_pin        | sys_clk_pin       | game_logic/board_reg[62]/D  |
+| sys_clk_pin        | sys_clk_pin       | game_logic/board_reg[129]/D |
+| sys_clk_pin        | sys_clk_pin       | game_logic/board_reg[99]/D  |
+| sys_clk_pin        | sys_clk_pin       | game_logic/board_reg[12]/D  |
+| sys_clk_pin        | sys_clk_pin       | game_logic/board_reg[10]/D  |
+| sys_clk_pin        | sys_clk_pin       | game_logic/board_reg[126]/D |
+| sys_clk_pin        | sys_clk_pin       | game_logic/board_reg[128]/D |
+| sys_clk_pin        | sys_clk_pin       | game_logic/board_reg[147]/D |
+| sys_clk_pin        | sys_clk_pin       | game_logic/board_reg[85]/D  |
+| sys_clk_pin        | sys_clk_pin       | game_logic/board_reg[7]/D   |
+| sys_clk_pin        | sys_clk_pin       | game_logic/board_reg[88]/D  |
+| sys_clk_pin        | sys_clk_pin       | game_logic/board_reg[9]/D   |
+| sys_clk_pin        | sys_clk_pin       | game_logic/board_reg[93]/D  |
++--------------------+-------------------+-----------------------------+
