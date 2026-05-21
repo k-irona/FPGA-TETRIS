@@ -114,3 +114,5 @@ The project currently uses PS2 keyboard input. In the source code, keys are mapp
 - 游戏渲染基于帧缓冲，画面变化由 BRAM 更新驱动，而不是逐像素直接控制 VGA。
 - 部分模块名和资源路径与当前板卡/工程强相关，迁移工程时应尽量保持 Vivado 工程结构不变。
 
+-  
+
